@@ -1,1 +1,1 @@
-#FridayAI
+print("hello from Friday")
