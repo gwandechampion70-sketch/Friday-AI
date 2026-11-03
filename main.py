@@ -1,1 +1,1 @@
-print("hello from Friday")
+from.app import app
